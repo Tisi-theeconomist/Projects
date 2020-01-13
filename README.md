@@ -1,2 +1,2 @@
 # Projects
-Different projects that interest me - previously worked on and currently working on.
+Different projects that interest me using puplic available dataset from several sources - previously worked on and currently working on.
